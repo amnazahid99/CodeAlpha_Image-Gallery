@@ -34,8 +34,6 @@ A responsive image gallery with light/dark mode toggle, category filtering, and 
 # License
 - MIT License - free to use and modify
 
-text
-
 # This README provides:
 1. Clear project description
 2. Key features with emojis
